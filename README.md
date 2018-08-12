@@ -20,6 +20,9 @@ address 3E46BmrKVkT4kgMRBrtwBbLkxxbB3yYbbG redeem script: 5221021eacc442a15cf6ef
   key 2 1E1CoXkVBhbJRVUPLx6EApbMF4NHnL9NQb public key in hex: 035b23406876043a04d19bd62aaaded05d0a3880879e7b661a8dfaba7df16417bc private key in WIF: L48NiJDRsBZNQc5cCvurttXnxhuv31y85jKrmkR7Uv1XVR1LGeVy
   key 3 1AdRyposJTrrPbXpKnufLBtYQDB2NmyTjR public key in hex: 03c765ee5af0faaf711660f593ff7ab5150d4d7a5209462dbbaec1215fbfe0bd6a private key in WIF: KwxtqZCyvSLyTVCbvQ6TLwuuwP2PSEdRBsWC5Fkiu2M853GcD52E
 ```
+## Tips
+
+`3A24dVZwoUc9NjSeBW6aGzuo9emp8WQBHW`
 
 ## License
 
